@@ -1,6 +1,6 @@
 # Hi, I'm Meme 👋
 
-I'm a software developer who enjoys building **useful, interesting, and sometimes just-for-fun applications**.
+I'm a software developer who enjoys building useful, interesting, and sometimes just-for-fun applications.
 
 I'm always looking to learn more and see how new technologies, languages, ideas, and ways of doing things can improve the way I approach programming and help me grow as a developer.
 
@@ -69,7 +69,7 @@ When I'm not coding, I enjoy:
 * 🧶 Attempting to learn crochet
 * 💻 Building small apps whenever I get an idea and have a free weekend
 
-I particularly enjoy making things that are either **useful or fun** — preferably both.
+I particularly enjoy making things that are either useful or fun - preferably both.
 
 The main problem is occasionally having the motivation to build something and absolutely no idea what to build.
 
